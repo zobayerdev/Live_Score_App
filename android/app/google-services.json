@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452659130765",
+    "project_id": "detabase-518a3",
+    "storage_bucket": "detabase-518a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452659130765:android:42ac78b6d9e8bbe8f98dc4",
+        "android_client_info": {
+          "package_name": "com.example.bangla_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbR_0EC2V78mnxAluCDLS1LvVl5VzD9UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
