@@ -1,4 +1,4 @@
-import 'package:bangla_book/antities/football.dart';
+import 'package:live_score_app/antities/football.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
